@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "crossbeam-rs",
+  "repo": "crossbeam",
+  "versions": [
+    {
+      "commit": "7e8f008a69f152a66984e3867f36d79e18a3d242",
+      "parsed_at": "2026-04-23T06:17:45.228118+00:00",
+      "tag": "v0.6.1",
+      "filetree": "filetree/7e8f008a69f152a66984e3867f36d79e18a3d242.nq.gz",
+      "blobs": [
+        "blob/128aad30ac7556dfcb05379a77ccea8dd620c06e.nq.gz",
+        "blob/bf13c7e1657a595ac0410d6d35575bc2770ab698.nq.gz",
+        "blob/143b1ca0147427236f1dd485fa0972d492eada75.nq.gz",
+        "blob/a121930405f021c5600122342865a4e38f8250f4.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/e8f5b4d39312e1f2f2de8905dc5589fa0309fd31.nq.gz",
+        "blob/25597d5838fa4cd7ff5c3c2bb1d1b4c3731eda7f.nq.gz",
+        "blob/9b9ac505885cf5fd0ebc611c9b2de3c1eca3ba4e.nq.gz",
+        "blob/236e106d63165fa24ee9eccaa2c80cce67916d16.nq.gz",
+        "blob/97e2c9f321ce824052d3d58167543b8306b8a730.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
